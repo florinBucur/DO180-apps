@@ -9,6 +9,6 @@
     "express": "4.x"
   } , 
   "scripts": {
-  	"start": "npm start"
+  	"start": "node app.js"
   }
 }
